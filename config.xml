@@ -2,10 +2,10 @@
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
   xmlns:gap = "http://phonegap.com/ns/1.0"
-  id = "comp.phonegap.app1"
+  id = "com.phonegap.app1"
   version = "1.0.0">
   
-  <name>app1-2019 Datos del dispositivo</name>
+  <name> app1-2019 Datos del dispositivo </name>
   
   <description>
   Aplicacion que nos muestra la informacion referente al dispositivo movil
